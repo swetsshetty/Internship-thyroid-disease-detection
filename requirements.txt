@@ -1,0 +1,14 @@
+cassandra-driver
+flask
+flask_cors
+imblearn
+joblib
+numpy
+pandas
+pickleshare
+scikit-learn==1.1.2
+six==1.16.0
+gunicorn
+requests
+
+
